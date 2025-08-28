@@ -159,9 +159,9 @@ Email - bharathssa16@gmail.com
 
 ## 👥 Team Contributors
 This project was collaboratively developed by Group 12 as part of our academic coursework.
-Team Members:
-Kyle James
-Liru Li
-Bharath Chandran Madhaiyan
-Mingxi Zhang
+- Team Members:
+- Bharath Chandran Madhaiyan
+- Kyle James
+- Liru Li
+- Mingxi Zhang
 We worked together on data preparation, modeling, visualizations, and insights generation. Each member contributed meaningfully across all project phases.
