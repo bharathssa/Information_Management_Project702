@@ -1,0 +1,58 @@
+# SQLite Database Files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Data files (if you want to exclude raw data)
+# Uncomment the following lines if you don't want to include data files
+# data/
+# *.csv
+# *.xlsx
+# *.json
+
+# Backup files
+*.bak
+*.backup
+
+# Documentation builds
+docs/_build/
+*.pdf
+
+# Python cache (if using Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# R files (if using R for analysis)
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
