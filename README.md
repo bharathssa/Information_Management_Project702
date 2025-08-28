@@ -145,7 +145,7 @@ The ETL pipeline includes:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [Github_Setup_File/LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](GitHub_Setup_Folder/LICENSE) file for details.
 
 ## 📧 Contact
 
