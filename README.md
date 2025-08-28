@@ -149,9 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/food-delivery-analytics](https://github.com/yourusername/food-delivery-analytics)
+Your Name - bharathssa16@gmail.com
 
 ## 🙏 Acknowledgments
 
