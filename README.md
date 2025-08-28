@@ -52,14 +52,14 @@ This project transforms raw food delivery data into a structured star schema dat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/food-delivery-analytics.git
-cd food-delivery-analytics
+git clone https://github.com/bharathssa/Information_Management_Project702.git
+cd Information_Management_Project702
 ```
 
 2. Set up the database:
 ```bash
 # Create a new SQLite database
-sqlite3 food_delivery.db
+Information_Management_Project702.db
 
 # Execute the schema and ETL script
 .read etl_pipeline.sql
