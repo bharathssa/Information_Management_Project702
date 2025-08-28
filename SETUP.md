@@ -77,10 +77,10 @@ CREATE TABLE stg_location (
 
 -- Import your CSV data
 .mode csv
-.import your_users_data.csv stg_users
-.import your_restaurant_data.csv stg_restaurant
-.import your_orders_data.csv stg_orders
-.import your_location_data.csv stg_location
+.import users.csv stg_users
+.import restaurant.csv stg_restaurant
+.import orders.csv stg_orders
+.import location.csv stg_location
 ```
 
 #### Option B: Using DB Browser for SQLite
