@@ -156,3 +156,12 @@ Email - bharathssa16@gmail.com
 - Data source: Food delivery platform transaction data
 - Inspiration: Modern data warehousing best practices
 - Tools: SQLite, SQL, Star Schema methodology
+
+## 👥 Team Contributors
+This project was collaboratively developed by Group 12 as part of our academic coursework.
+Team Members:
+Kyle James
+Liru Li
+Bharath Chandran Madhaiyan
+Mingxi Zhang
+We worked together on data preparation, modeling, visualizations, and insights generation. Each member contributed meaningfully across all project phases.
