@@ -164,4 +164,5 @@ This project was collaboratively developed by Group 12 as part of our academic c
 - Kyle James
 - Liru Li
 - Mingxi Zhang
-- We worked together on data preparation, modeling, visualizations, and insights generation. Each member contributed meaningfully across all project phases.
+  
+We worked together on data preparation, modeling, visualizations, and insights generation. Each member contributed meaningfully across all project phases.
