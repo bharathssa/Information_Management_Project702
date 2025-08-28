@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - bharathssa16@gmail.com
+Email - bharathssa16@gmail.com
 
 ## 🙏 Acknowledgments
 
