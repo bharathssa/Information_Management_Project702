@@ -265,7 +265,7 @@ WHERE f.location_key IS NULL;
 UPDATE dim_customer
 SET
   income_group = CASE
-    WHEN LOWER(monthly_income_raw) LIKE 'no income%'       THEN 'None'
+    WHEN LOWER(monthly_income_raw) LIKE 'no income%'       THEN 'No Income'
     WHEN LOWER(monthly_income_raw) LIKE '%below rs.10000%'   THEN 'Below 10k'
     WHEN LOWER(monthly_income_raw) LIKE '%10001 to 25000%'  THEN '10k-25k'
     WHEN LOWER(monthly_income_raw) LIKE '%25001 to 50000%'  THEN '25k-50k'
