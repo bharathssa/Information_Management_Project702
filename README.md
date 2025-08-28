@@ -23,7 +23,7 @@ This project transforms raw food delivery data into a structured star schema dat
 - **`dim_date`**: Date dimension with calendar attributes and weekend flags
 - **`dim_location`**: Geographic hierarchy with country, state, and city information
 
-![Star Schema Diagram](schema_diagram.png)
+![Star Schema Diagram](Star_Schema_Diagram.png)
 
 ## 📈 Analytics Capabilities
 
